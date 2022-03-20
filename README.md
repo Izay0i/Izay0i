@@ -5,5 +5,6 @@ Currently pursuing web dev/mobile dev.
 
 :video_game: Game dev is love, game dev is life.
 
-[![Izay0i's GitHub stats](https://github-readme-stats.vercel.app/api?username=Izay0i)](https://github.com/Izay0i/github-readme-stats)
+[![Izay0i's GitHub stats](https://github-readme-stats.vercel.app/api?username=Izay0i)](https://github.com/Izay0i/github-readme-stats)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Izay0i&layout=compact)](https://github.com/Izay0i/github-readme-stats)\
 ![Hat kid](https://thumbs.gfycat.com/CheerfulMeaslyLeech-size_restricted.gif)
