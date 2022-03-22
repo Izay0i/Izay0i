@@ -7,4 +7,4 @@ Currently pursuing web dev/mobile dev.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Izay0i&layout=compact)](https://github.com/Izay0i/github-readme-stats)\
 [![Izay0i's GitHub stats](https://github-readme-stats.vercel.app/api?username=Izay0i)](https://github.com/Izay0i/github-readme-stats)\
-![Hat kid](https://thumbs.gfycat.com/CheerfulMeaslyLeech-size_restricted.gif)
+![NieR](https://thumbs.gfycat.com/TepidScholarlyDiamondbackrattlesnake-size_restricted.gif)
