@@ -1,7 +1,7 @@
 :four: Fourth year student at the University of Information and Technology.\
 :computer: Currently pursuing web dev/mobile dev.
 
-:video_game: Making games is a pita process.
+:video_game: I like playing game, but not making them.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Izay0i&layout=compact)](https://github.com/Izay0i/github-readme-stats)\
 [![Izay0i's GitHub stats](https://github-readme-stats.vercel.app/api?username=Izay0i)](https://github.com/Izay0i/github-readme-stats)\
