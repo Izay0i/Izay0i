@@ -3,6 +3,8 @@
 
 :video_game: I like playing games, but not the process of making them.
 
+![](https://komarev.com/ghpvc/?username=Izay0i&style=plastic&color=brightgreen&label=Views)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Izay0i&layout=compact)](https://github.com/Izay0i/github-readme-stats)\
 [![Izay0i's GitHub stats](https://github-readme-stats.vercel.app/api?username=Izay0i)](https://github.com/Izay0i/github-readme-stats)\
 ![NieR](https://thumbs.gfycat.com/TepidScholarlyDiamondbackrattlesnake-size_restricted.gif)
